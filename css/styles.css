@@ -3,7 +3,7 @@
     __blanco: #ffffff;
     --obscuro: #212121;
     --primario: #ffc107;
-    --secundario: #757575;
+    --secundario: #0097A7;
 
     --fuente-principal: 3.8 rem;
 
@@ -29,4 +29,12 @@ body{
 
     font-size: 1rem;
     
+}
+
+.contenedor {
+    width: 120rem;
+    margin: 0 auto;
+}
+.navegacion-principal{
+    background-color: var(--secundario);
 }
